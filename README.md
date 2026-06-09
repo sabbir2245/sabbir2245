@@ -4,8 +4,7 @@ I am a passionate software developer with a strong foundation in building effici
 
 ---
 
-### 🌐 My Portfolio
-[Click here to view my Portfolio and Projects](https://sabfolio455.vercel.app/)
+### 🌐 [Click here to view my Portfolio and Projects](https://sabfolio455.vercel.app/)
 
 ---
 
@@ -21,7 +20,9 @@ I am a passionate software developer with a strong foundation in building effici
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabbir2245&show_icons=true&theme=tokyonight&count_private=true)
+![Sabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabbir2245&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir2245&layout=compact&theme=tokyonight)
 
 ---
 
